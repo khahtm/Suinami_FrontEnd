@@ -1,0 +1,15 @@
+export const CURRRENCY_ADDRESS = "0x27ceb93823f4ebaf9f7160472de0c35094f2118e"
+
+export const ROUTER_ADDRESS = "0x6ae9e5fa7b1c132a7d4b150b18d6faf59a56cb26"
+
+export const POOL_BNB_ETH_ADDRESS = "0xc2fd3558d8dfb7f060b915aa4ad2341fa7a469b9"
+
+export const CONTRACT_ADDRESS = "0x7dc364ae3b40be387ad89012a663189e8fa58c80"
+
+export const GLOBAL_STATUS_ADDRESS = "0x7975b542f5680ab3fc9979fba6bf55f29f678f5e"
+
+export const SWAP_CONTRACT_ADDRESS = "0xb6a0aa32dd46f8e5a18361a4e80ac80534747dca"
+
+export const LIQUIDITY_ADDRESS = [
+    "0xc2fd3558d8dfb7f060b915aa4ad2341fa7a469b9"
+]
